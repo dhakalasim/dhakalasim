@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub account! 👋
 
 <!--
 **dhakalasim/dhakalasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhakalasim&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalasim&layout=compact&theme=radical" alt="Top Languages" />
+</p>
