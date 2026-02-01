@@ -11,18 +11,6 @@ I’m Asim Dhakal — a tech enthusiast from Nepal with a passion for AI, web de
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhakalasim&show_icons=true&theme=radical" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalasim&layout=compact&theme=radical" width="400" />
-</p>
-
----
-
 <h3 align="center">⚡ Featured Projects</h3>
 
 - 🧠 **AI Resume Parser** — Built using Python + Gemini API + MongoDB + React.
