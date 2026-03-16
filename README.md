@@ -1,6 +1,7 @@
 ## 👋 Welcome to my GitHub account!
 
 **I’m Asim Dhakal** — a tech enthusiast from Kathmandu, Nepal 🇳🇵  
+
 **I love Agentic AI** 🤖 | Passionate about building intelligent systems, web development, and education.
 
 - 🔭 **I’m currently working on:** AI-powered document extraction using **FastAPI, Postgres, Next.js and React**
