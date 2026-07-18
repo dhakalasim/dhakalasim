@@ -9,7 +9,7 @@
 - 🌱 **I’m currently learning:** Agentic AI
 - 💡 **Goals:** Expressing my creativity with cool applications that benefit Nepal and the entire world, and inspiring Nepal to embrace and utilize open-source through GitHub
 - 💬 **Ask me about:** Web dev, Python backend, project mentorship, education technology, and **Agentic AI**
-- 🎵 **Fun fact:** I’m also a musician — exploring hip-hop, pop, rock, and metal, producing my own songs with the latest version of Logic Pro X, and trying out FL Studio for rap 🎸🎧
+- 🎵 **Fun fact:** I’m also a musician — exploring hip-hop, pop, rock, and metal, producing my own songs with the latest version of Logic Pro, and trying out FL Studio for rap 🎸🎧
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/asim-dhakal-1b452a275/) | [YouTube](https://www.youtube.com/@AsimDhakal)
 
 ---
