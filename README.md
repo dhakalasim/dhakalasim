@@ -22,6 +22,72 @@
 
 ---
 
+<h3 align="center">🎮 A Tiny Adventure (play with a friend!)</h3>
+
+<p align="center">You're a developer in Kathmandu with a laptop and a big idea. What do you do?</p>
+
+<details>
+<summary>🤖 Open Claude and start building something</summary>
+
+<br>
+
+You prompt Claude to scaffold a web app. It actually works on the first try. Now what?
+
+<details>
+<summary>🚀 Ship it and open-source the repo</summary>
+
+<br>
+
+You push to GitHub, add a README, and a stranger in Pokhara stars it by morning.
+
+**🏆 Ending: Open Source Hero** — You just inspired someone else in Nepal to make their first commit. Go make a real repo and tag [@dhakalasim](https://github.com/dhakalasim) when you do!
+
+</details>
+
+<details>
+<summary>🎧 Take a break and produce a beat in Logic Pro instead</summary>
+
+<br>
+
+The app can wait. The beat cannot.
+
+**🎵 Ending: Certified Vibes** — No app shipped today, but the track slaps. Priorities, respected.
+
+</details>
+
+</details>
+
+<details>
+<summary>🎤 Close the laptop and open FL Studio to work on a rap verse</summary>
+
+<br>
+
+Sixteen bars in, you realize the hook needs one more line.
+
+<details>
+<summary>✍️ Keep writing until it's perfect</summary>
+
+<br>
+
+**🎶 Ending: Studio Rat** — Three hours later you have a banger and zero lines of code. Worth it.
+
+</details>
+
+<details>
+<summary>💻 Go back to coding and finish the verse later</summary>
+
+<br>
+
+**⚖️ Ending: The Balancer** — Code by day, bars by night. This is basically the whole README in one choice.
+
+</details>
+
+</details>
+
+<p align="center"><em>Play again anytime — just pick a different branch! 🌿</em></p>
+
+---
+
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
