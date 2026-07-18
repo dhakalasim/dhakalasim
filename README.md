@@ -4,11 +4,12 @@
 
 **I love Agentic AI** 🤖 | Passionate about building intelligent systems, web development, and education.
 
-- 🔭 **I’m currently working on:** AI-powered document extraction using **FastAPI, Postgres, Next.js and React**
+- 🔭 **I’m currently working on:** Creating new web applications using **Anthropic Claude**
+- 👨‍🏫 **I’m currently a:** Visiting Faculty Member at **Kathmandu University** and **Deerwalk Institute of Technology**
 - 🌱 **I’m currently learning:** Agentic AI
-- 💡 **Goals:** Build a startup that creates practical AI tools for businesses in Nepal and beyond
+- 💡 **Goals:** Expressing my creativity with cool applications that benefit Nepal and the entire world, and inspiring Nepal to embrace and utilize open-source through GitHub
 - 💬 **Ask me about:** Web dev, Python backend, project mentorship, education technology, and **Agentic AI**
-- 🎵 **Fun fact:** I’m also a musician — producing my own songs with Suno and Logic Pro X 🎸🎧
+- 🎵 **Fun fact:** I’m also a musician — exploring hip-hop, pop, rock, and metal, and producing my own songs with Suno and Logic Pro X 🎸🎧
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/asim-dhakal-1b452a275/) | [YouTube](https://www.youtube.com/@AsimDhakal)
 
 ---
