@@ -10,7 +10,7 @@
 - 💡 **Goals:** Expressing my creativity with cool applications that benefit Nepal and the entire world, and inspiring Nepal to embrace and utilize open-source through GitHub
 - 💬 **Ask me about:** Web dev, Python backend, project mentorship, education technology, and **Agentic AI**
 - 🎵 **Fun fact:** I’m also a musician — exploring hip-hop, pop, rock, and metal, producing my own songs with the latest version of Logic Pro, and trying out FL Studio for rap 🎸🎧
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/asim-dhakal-1b452a275/) | [YouTube](https://www.youtube.com/@AsimDhakal)
+- 📫 **How to reach me:** [YouTube](https://www.youtube.com/@AsimDhakal) *(my LinkedIn was compromised, so it's down for now)*
 
 ---
 
@@ -91,9 +91,9 @@ Sixteen bars in, you realize the hook needs one more line.
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asim-dhakal-1b452a275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.youtube.com/@AsimDhakal"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" /></a>
 </p>
+<p align="center"><em>⚠️ My LinkedIn account was compromised — it's no longer linked here until it's recovered.</em></p>
 
 ---
 
